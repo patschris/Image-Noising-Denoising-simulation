@@ -1,7 +1,7 @@
 # Image-Noising-Denoising-simulation
 The goal of this simulation is to try some of the basic methods of the image processing. We are using the images *duck.jpg*, *puppy.jpg*, *wrenches.jpg* and *matlab.jpg* for our tests (folder `images`).<br/> 
 
-Main tests:
+Main concepts:
 - reduce the quantization level
 - downsampling
 - add white gausian and salt & pepper noise and then try to remove it by using filters
