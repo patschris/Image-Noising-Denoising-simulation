@@ -1,5 +1,5 @@
 # Image Noising/Denoising Simulation
-The goal of this simulation is to try some of the basic methods of the image processing. We are using the images *duck.jpg*, *puppy.jpg*, *wrenches.jpg* and *matlab.jpg* for our tests (folder `images`).<br/> 
+The goal of this simulation is to try some of the basic methods of the image processing. We are using the images *duck.jpg*, *puppy.jpg*, *wrenches.jpg* and *matlab.jpg* for our tests (folder [images](https://github.com/patschris/Image-Noising-Denoising-simulation/tree/master/images)).<br/> 
 
 Main concepts:
 - reduce the quantization level
